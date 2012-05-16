@@ -8,4 +8,10 @@ This is some CSS that we want to work on:
 =======
 amit is a good boy.
 amit likes git.
+<<<<<<< HEAD
 >>>>>>> 7df993921ec7e420247f2fc73fe7c8d3668478a7
+=======
+this is another line added since i see you haven't created branch. i will wait for you to branch out. then once you have branched out i will commit and push these changes to master.
+
+This is another non-pushed line added next day. lets see what happens.
+>>>>>>> a0f44bca543fa6ab996f21598fd9c00820abe1ed
