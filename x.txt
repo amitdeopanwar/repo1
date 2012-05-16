@@ -19,4 +19,8 @@ function say_hi() {
     echo "Hi Amit!";
 }
 
-## End of Brian's OSSOM codde.
+# Wed May 16 12:39:22 PDT 2012
+
+function bonjour() {
+    echo "Bonjour! Commen tallez vous?";
+}
