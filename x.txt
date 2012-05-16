@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 /*
 This is some CSS that we want to work on:
 
 #fee391 : this is some color that we use but don't like.
 
 */
+=======
+amit is a good boy.
+amit likes git.
+>>>>>>> 7df993921ec7e420247f2fc73fe7c8d3668478a7
