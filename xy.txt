@@ -41,4 +41,5 @@ figure out how to do a remote push.
 Thu May 17 11:12:24 PDT 2012
 *************
 
-To build a habit, you need to do it by accretion.
+
+Thu May 17 11:57:12 PDT 2012
